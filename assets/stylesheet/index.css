@@ -267,7 +267,7 @@ span+span {
 
 .home_info {
     display: flex;
-    justify-content: last baseline;
+    justify-content: center;
     flex-direction: column;
     text-align: center;
 }
@@ -388,7 +388,7 @@ span+span {
 .text_ourHistory {
     color: var(--light-grey);
     font-family: 'Cooper Hewitt';
-    font-size: 14px;
+    font-size: 10px;
     white-space: pre-line;
     text-align: justify;
     line-height: 2.2rem;
@@ -403,7 +403,7 @@ span+span {
 }
 
 .image_ourHistory {
-    width: 59%;
+    width: 57%;
     margin-bottom: 5rem;
     border-bottom: 2px solid var(--jet);
     border-radius: 8px;
