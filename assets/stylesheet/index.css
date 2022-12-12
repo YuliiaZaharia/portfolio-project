@@ -259,7 +259,7 @@ span+span {
 }
 
 .image_home {
-    max-width: 68%;
+    max-width: 55%;
     transition: .4s;
     animation: image 2s;
     border-radius: 8px;
