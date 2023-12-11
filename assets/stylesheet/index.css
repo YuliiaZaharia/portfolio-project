@@ -877,6 +877,10 @@ footer {
     transform: translate(-50%, -50%) scale(1);
 }
 
+i {
+    font-size: 55px;
+}
+
 @keyframes popup {
     0% {
         width: 0;
