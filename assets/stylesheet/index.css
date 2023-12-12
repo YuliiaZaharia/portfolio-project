@@ -262,7 +262,7 @@ span+span {
     max-width: 55%;
     transition: .4s;
     animation: image 2s;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 .home_info {
@@ -738,11 +738,9 @@ img.logo-two {
     background-color: #776254;
 }
 
-
 .form-contact textarea::-webkit-scrollbar-thumb {
     background-color: #574438;
 }
-
 
 .btn_form--contacts {
     display: flex;
