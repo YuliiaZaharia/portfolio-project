@@ -20,7 +20,7 @@
 }
 
 html {
-    font-size: 61%;
+    font-size: 65%;
     scrollbar-width: thin;
     scrollbar-color: var(--beaver) var(--eerie-black);
     scroll-behavior: smooth;
@@ -334,6 +334,10 @@ span+span {
     margin: 2rem 0;
     border: none;
     cursor: pointer;
+}
+
+.customer_policy:focus {
+    outline: none;
 }
 
 .contact_button {
