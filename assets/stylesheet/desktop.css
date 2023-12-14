@@ -37,7 +37,7 @@ div.btn {
     display: none;
 }
 
-/* Home */
+/* About */
 
 .home {
     display: flex;
@@ -153,7 +153,7 @@ div.btn {
     margin: .7rem 0 .7rem 0;
 }
 
-/* About us */
+/* What I do */
 
 .ourHistory {
     padding-bottom: 4rem;
@@ -169,24 +169,24 @@ div.btn {
 }
 
 .container_text-ourHistory {
-    width: 70%;
+    width: 50%;
     padding: 0 5% 0 3rem;
 }
 
 .title_ourHistory {
     text-align: start;
-    font-size: 2.8rem;
-    letter-spacing: .3rem;
+    font-size: 1.8rem;
+    letter-spacing: .2rem;
 }
 
 .text_ourHistory {
     text-align: start;
-    font-size: 2rem;
+    font-size: 1.5rem;
     letter-spacing: .2rem;
-    line-height: 2.8rem;
+    line-height: 2.3rem;
 }
 
-/* Subsidiaries */
+/* Skills */
 
 .subsidiaries {
     padding-bottom: 8rem;
@@ -216,7 +216,7 @@ div.btn {
     margin-top: .8rem;
 }
 
-/* Awards */
+/* Certificates */
 
 .awards {
     padding-bottom: 2rem;

@@ -259,7 +259,7 @@ span+span {
 }
 
 .image_home {
-    max-width: 55%;
+    max-width: 47%;
     transition: .4s;
     animation: image 2s;
     border-radius: 10px;
@@ -275,20 +275,20 @@ span+span {
 .home_text-1 {
     font-family: 'Cooper Hewitt';
     color: var(--white);
-    font-size: 2rem;
+    font-size: 2.1rem;
 }
 
 .home_text-2 {
     font-family: 'PT Sans';
     color: var(--beaver);
-    font-size: 3.0rem;
+    font-size: 3rem;
     margin-bottom: 3rem;
 }
 
 .home_text-3 {
     font-family: 'Cooper Hewitt';
     color: var(--white);
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     text-transform: uppercase;
     letter-spacing: .4rem;
     width: 28rem;
@@ -355,7 +355,7 @@ span+span {
     margin: 0 .5rem;
 }
 
-/* Our History */
+/* What I do */
 
 .ourHistory {
     background-color: var(--eerie-black);
@@ -392,10 +392,10 @@ span+span {
 .text_ourHistory {
     color: var(--light-grey);
     font-family: 'Cooper Hewitt';
-    font-size: 10px;
+    font-size: 13px;
     white-space: pre-line;
     text-align: justify;
-    line-height: 2.2rem;
+    line-height: 2.4rem;
 }
 
 .container_image-ourHistory {
@@ -413,7 +413,7 @@ span+span {
     border-radius: 8px;
 }
 
-/* Subsidiaries */
+/* Skills */
 
 .subsidiaries {
     background-color: var(--jet);
@@ -470,7 +470,7 @@ span+span {
     text-decoration: none;
 }
 
-/* Awards */
+/* Certificates */
 
 .awards {
     background-color: var(--eerie-black);

@@ -27,7 +27,7 @@ nav.nav_menu.active {
     font-size: 3.6rem;
 }
 
-/* About us */
+/* About */
 
 .ourHistory {
     padding: 0 2rem;
@@ -60,13 +60,13 @@ nav.nav_menu.active {
     margin-top: 2rem;
 }
 
-/* Subsidiaries */
+/* What I do */
 
 .cards_container--subsidiaries {
     column-gap: 4rem;
 }
 
-/* Awards */
+/* Certificates */
 
 .cards_container--awards {
     flex-wrap: wrap;
