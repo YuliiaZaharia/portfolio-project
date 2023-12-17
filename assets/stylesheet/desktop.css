@@ -155,31 +155,31 @@ div.btn {
 
 /* What I do */
 
-.ourHistory {
+.abilities {
     padding-bottom: 4rem;
 }
 
-.ourHistory h1 {
+.abilities h1 {
     margin-top: 2rem;
     font-size: 3rem;
 }
 
-.container_content-ourHistory {
+.container_content-abilities {
     flex-direction: row-reverse;
 }
 
-.container_text-ourHistory {
+.container_text-abilities {
     width: 50%;
     padding: 0 5% 0 3rem;
 }
 
-.title_ourHistory {
+.title_abilities {
     text-align: start;
     font-size: 1.8rem;
     letter-spacing: .2rem;
 }
 
-.text_ourHistory {
+.text_abilities {
     text-align: start;
     font-size: 1.5rem;
     letter-spacing: .2rem;
@@ -188,30 +188,30 @@ div.btn {
 
 /* Skills */
 
-.subsidiaries {
+.skills {
     padding-bottom: 8rem;
     position: relative;
 }
 
-.subsidiaries h1 {
+.skills h1 {
     padding-top: 8rem;
     font-size: 3rem;
 }
 
-.cards_container--subsidiaries {
+.cards_container--skills {
     grid-template-columns: 13rem 13rem 13rem 13rem;
     grid-template-rows: 14rem 14rem;
     padding: 0;
     margin-top: 2rem;
 }
 
-.cards--subsidiaries:hover {
+.cards--skills:hover {
     filter: saturate(100%);
     border: 1px solid var(--beaver);
     transition: all 1s;
 }
 
-.cards--subsidiaries p {
+.cards--skills p {
     font-size: 1.6rem;
     margin-top: .8rem;
 }

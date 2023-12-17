@@ -27,42 +27,42 @@ nav.nav_menu.active {
     font-size: 3.6rem;
 }
 
-/* About */
+/* What I do */
 
-.ourHistory {
+.abilities {
     padding: 0 2rem;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.container_content-ourHistory {
+.container_content-abilities {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.container_text-ourHistory {
+.container_text-abilities {
     padding: 4rem;
 }
 
-.title_ourHistory {
+.title_abilities {
     font-size: 3rem;
 }
 
-.text_ourHistory {
+.text_abilities {
     font-size: 1.4rem;
     line-height: 2.5rem;
 }
 
-.container_image-ourHistory {
+.container_image-abilities {
     width: 65%;
     margin-top: 2rem;
 }
 
-/* What I do */
+/* Skills */
 
-.cards_container--subsidiaries {
+.cards_container--skills {
     column-gap: 4rem;
 }
 

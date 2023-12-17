@@ -357,13 +357,13 @@ span+span {
 
 /* What I do */
 
-.ourHistory {
+.abilities {
     background-color: var(--eerie-black);
     width: 100%;
     height: auto;
 }
 
-.ourHistory h1 {
+.abilities h1 {
     display: block;
     text-align: center;
     color: var(--white);
@@ -373,13 +373,13 @@ span+span {
     padding-top: 5rem;
 }
 
-.container_text-ourHistory {
+.container_text-abilities {
     display: flex;
     flex-direction: column;
     padding: 4rem 3rem 3rem 3rem;
 }
 
-.title_ourHistory {
+.title_abilities {
     font-family: 'Cooper Hewitt';
     color: var(--beaver);
     text-align: center;
@@ -389,7 +389,7 @@ span+span {
     margin-bottom: 2rem;
 }
 
-.text_ourHistory {
+.text_abilities {
     color: var(--light-grey);
     font-family: 'Cooper Hewitt';
     font-size: 13px;
@@ -398,7 +398,7 @@ span+span {
     line-height: 2.4rem;
 }
 
-.container_image-ourHistory {
+.container_image-abilities {
     width: 100%;
     height: auto;
     display: flex;
@@ -406,7 +406,7 @@ span+span {
     padding: 1rem 0;
 }
 
-.image_ourHistory {
+.image_abilities {
     width: 57%;
     margin-bottom: 5rem;
     border-bottom: 2px solid var(--jet);
@@ -415,13 +415,13 @@ span+span {
 
 /* Skills */
 
-.subsidiaries {
+.skills {
     background-color: var(--jet);
     width: 100%;
     height: auto;
 }  
 
-.subsidiaries h1 {
+.skills h1 {
     display: block;
     text-align: center;
     color: var(--white);
@@ -431,7 +431,7 @@ span+span {
     padding: 6rem 0 5rem 0;
 }
 
-.cards_container--subsidiaries {
+.cards_container--skills {
     display: grid;
     grid-template-columns: 13rem 13rem;
     grid-template-rows: 14rem 14rem 14rem;
@@ -440,7 +440,7 @@ span+span {
     padding-bottom: 5rem;
 }
 
-.cards--subsidiaries {
+.cards--skills {
     background-color: var(--beaver);
     border-radius: 24px;
     display: flex;
@@ -453,12 +453,12 @@ span+span {
     height: 14rem;
 }
 
-.cards--subsidiaries img {
+.cards--skills img {
     margin-top: .7rem;
     width: 9rem;
 }
 
-.cards--subsidiaries p {
+.cards--skills p {
     color: var(--white);
     font-family: 'Cooper Hewitt';
     letter-spacing: .1rem;
