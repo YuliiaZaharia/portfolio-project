@@ -242,6 +242,11 @@ div.btn {
     font-size: 3rem;
 }
 
+.apps h1 {
+    padding-top: 8rem;
+    font-size: 3rem;
+}
+
 .cards_container--websites {
     flex-direction: row;
     justify-content: center;
