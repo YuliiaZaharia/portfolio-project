@@ -77,13 +77,13 @@ nav.nav_menu.active {
     margin: 0 2rem 3rem 2rem;
 }
 
-/* Projects */
+/* websites / apps */
 
-.cards--projects {
+.cards--websites {
     max-width: 48rem;
 }
 
-.container_btn--projects button {
+.container_btn--websites button {
     width: 20.6rem;
 }
 

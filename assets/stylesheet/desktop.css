@@ -235,19 +235,19 @@ div.btn {
     transition: .4s all;
 }
 
-/* Projects */
+/* Websites / Apps */
 
-.projects h1 {
+.websites h1 {
     padding-top: 8rem;
     font-size: 3rem;
 }
 
-.cards_container--projects {
+.cards_container--websites {
     flex-direction: row;
     justify-content: center;
 }
 
-.cards--projects {
+.cards--websites {
     width: 40rem;
     height: 40rem;
     display: flex;
@@ -257,7 +257,7 @@ div.btn {
     z-index: 1;
 }
 
-.container_btn--projects button {
+.container_btn--websites button {
     width: auto;
     padding-left: 3.5rem;
     padding-right: 3.5rem;
